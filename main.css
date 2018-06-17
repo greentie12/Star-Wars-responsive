@@ -1,0 +1,46 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.head {
+    background-color: sandybrown;
+    height: auto;
+}
+
+.head p {
+    position: relative;
+    top: -15px;
+    display: inline;
+}
+
+main .row {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.name, .desc {
+    padding-left: 7px;
+}
+
+.cards {
+    border: 1px solid lightgrey;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.cards p {
+    margin-top: 20px;
+}
+
+.desc {
+    font-size: 14px;
+}
